@@ -1,2 +1,3 @@
 # TRIOs
 TRIOs Development Support (P) Ltd is a research and consultancy organisation. We provide technical and management support to state and national governments, development organisations and corporates on a range of socio-economic, human development, consumer and market aspects.
+We bring a blend of strategic planning, result based management, technical support, evidence-based research, evaluation and capacity development expertise to public health and nutrition, water and sanitation, rural development, and livelihood projects. TRIOs also helps carry out corporate social responsibility (CSR) interventions, in-sourcing of human resource, market surveys and consumer research.
